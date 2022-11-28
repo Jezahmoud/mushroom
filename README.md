@@ -23,6 +23,12 @@ The dataset is collected from [kaggle](https://www.kaggle.com/datasets/uciml/mus
 * Model Evaluation
 * Results and Conclusion
 
+## Initial results
+
+| **Classification model** | **Accuracy** |
+|--------------------------|--------------|
+| **K-nearest Neighbors**  | 99.88%       |
+| **Logistic Regression**  | 100%         |
 
 ## Authors
 
