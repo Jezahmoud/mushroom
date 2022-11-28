@@ -28,8 +28,10 @@ The dataset is collected from [kaggle](https://www.kaggle.com/datasets/uciml/mus
 The outputs of machine learning models using the One Hot Encoding technique and an 80/20 split strategy
 | **Classification model** | **Accuracy** |
 |--------------------------|--------------|
-| **K-nearest Neighbors**  | 99.88%       |
-| **Logistic Regression**  | 100%         |
+| **K-nearest Neighbors**  | **99.88%**   |
+| **Logistic Regression**  | **100%**     |
+| **Decision Tree**        | **99.88%**   |
+| **Random Forest**        | **100%**     |
 
 ## Authors
 
