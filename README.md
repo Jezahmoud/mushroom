@@ -26,7 +26,7 @@ The dataset is collected from [kaggle](https://www.kaggle.com/datasets/uciml/mus
 ## Initial results
 
 
-|: **One Hot Encoding** technique and 80/20 split strategy :||
+| : **One Hot Encoding** technique and 80/20 split strategy : ||
 |--------------------------|--------------|
 | **Classification model** | **Accuracy** |
 | **K-nearest Neighbors**  | 100.0%       |
