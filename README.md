@@ -31,6 +31,27 @@ The outputs of machine learning models using the **One Hot Encoding** technique 
 | **K-nearest Neighbors** | 100.0% |
 | **Logistic Regression** | 99.88% |
 
+
+The outputs of machine learning models using the **One Hot Encoding** technique and an **70/30** split strategy
+| **Classification model** | **Accuracy** |
+|---|---|
+| **K-nearest Neighbors** | 100.0% |
+| **Logistic Regression** | 99.92% |
+
+
+The outputs of machine learning models using the **LabelEncoder** technique and an **80/20** split strategy
+| **Classification model** | **Accuracy** |
+|---|---|
+| **K-nearest Neighbors** | 99.88% |
+| **Logistic Regression** | 93.85% |
+
+
+The outputs of machine learning models using the **LabelEncoder** technique and an **70/20** split strategy
+| **Classification model** | **Accuracy** |
+|---|---|
+| **K-nearest Neighbors** | 99.88% |
+| **Logistic Regression** | 94.3% |
+
 ## Authors
 
 - [Jeza Allohibi](https://github.com/Jezahmoud)
