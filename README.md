@@ -26,18 +26,18 @@ The dataset is collected from [kaggle](https://www.kaggle.com/datasets/uciml/mus
 ## Initial results
 
 The outputs of machine learning models using the **One Hot Encoding** technique with **80/20** and **70/30** split strategy
-| **Classification model** | **Accuracy (80/20)** | **Accuracy (70/30)** |
-|---|---|---|
-| **K-nearest Neighbors** | 100.0% | 100.0% |
-| **Logistic Regression** | 99.88% | 99.92% |
+| **Classification model** | **Accuracy (80/20)** | **Accuracy (70/30)** | **Accuracy (5-fold CV)** |  **Accuracy (10-fold CV)** |
+|---|---|---|---| ---|
+| **K-nearest Neighbors** | 100.0% | 100.0% | 100.0% | 100.0% |
+| **Logistic Regression** | 99.88% | 99.92% | 99.96% | 100.0% |
 
 
 
 The outputs of machine learning models using the **LabelEncoder** technique with **80/20** and **70/20** split strategy
-| **Classification model** | **Accuracy (80/20)** | **Accuracy (70/30)** |
-|---|---|---|
-| **K-nearest Neighbors** | 99.88% | 99.88% |
-| **Logistic Regression** | 93.85% | 94.3% |
+| **Classification model** | **Accuracy (80/20)** | **Accuracy (70/30)** | **Accuracy (5-fold CV)** | **Accuracy (10-fold CV)** |
+|---|---|---|---| ---|
+| **K-nearest Neighbors** | 99.88% | 99.88% | 99.94% | 99.96% |
+| **Logistic Regression** | 93.85% | 94.3% | 95.03% | 94.92% |
 
 
 ## Authors
